@@ -17,7 +17,14 @@ Veri üzerinde **EDA** ve **Preprocessing** adımları uygulanarak, makine öğr
 
 ## 💾 Çıktılar
 - İşlenmiş veri seti: `data/preprocessed_data.csv`  
-- Raporlar: `docs/` klasöründe  
+- Raporlar: `docs/` klasöründe
+-   
+## 🚀 Nasıl Çalıştırılır?
+
+1. Repoyu klonlayın:
+   ```bash
+   git clone https://github.com/berilkln/Pusula_Beril_Kartal.git
+   cd Pusula_Beril_Kartal
 
 ## Iletisim
 - **Ad Soyad:** Beril Kartal 
